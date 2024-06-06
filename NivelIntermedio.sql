@@ -17,7 +17,6 @@ FROM libros
 ORDER BY LEN(titulo) DESC
 LIMIT 1
 
-6. SUBCONSULTAS
 --Mostrar libros con autor que ha escrito otro libro con fecha posterior
 SELECT libros1.titulo, libros1.autor
 FROM libros libros1
