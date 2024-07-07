@@ -2,7 +2,7 @@
 SELECT COUNT(*) AS total_libros
 FROM libros;
 
--- Contar libros por géneros
+-- Contar libros por géneros.
 SELECT genero, COUNT(*) AS libros_por_genero
 FROM libros
 GROUP BY genero;
