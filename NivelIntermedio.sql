@@ -1,4 +1,4 @@
--- Contar el número total de libros
+-- Contar el número total de libros.
 SELECT COUNT(*) AS total_libros
 FROM libros;
 
