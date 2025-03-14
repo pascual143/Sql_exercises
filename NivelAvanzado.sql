@@ -1,4 +1,4 @@
-# Agrupar Filas por un Rango
+# Agrupar Filas por un Rango.
   
 
 -- En el siguiente ejemplo de consulta, crearemos los rangos de salario low, medium, y high. Luego contaremos cuantos empleados hay en cada rango salarial:
