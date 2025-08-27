@@ -1,4 +1,4 @@
--- 1. CREAR Y POBLAR UNA TABLA.
+-- 1. CREAR Y POBLAR UNA TABLA
 -- Crear una base de datos llamada "biblioteca":
 CREATE DATABASE biblioteca;
 
